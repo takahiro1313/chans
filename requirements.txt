@@ -5,3 +5,5 @@ openai
 folium
 streamlit_folium
 python-dotenv
+plotly
+sqlite3
