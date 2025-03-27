@@ -4,5 +4,4 @@ requests
 openai
 folium
 streamlit_folium
-database
 python-dotenv
