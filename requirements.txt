@@ -1,11 +1,8 @@
 streamlit
 googlemaps
 requests
-json
 openai
 folium
-datetime
 streamlit_folium
 database
-os
-dotenv
+python-dotenv
